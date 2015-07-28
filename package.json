@@ -1,0 +1,15 @@
+{
+  "name": "panaxui-bootstrap",
+  "version": "0.0.1",
+  "description": "Panax custom Bootstrap CSS build",
+  "main": "css/bootstrap.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://benoror@bitbucket.org/panaxit/panaxui-bootstrap.git"
+  },
+  "author": "Benjamin Orozco <benoror@gmail>",
+  "license": "ISC"
+}

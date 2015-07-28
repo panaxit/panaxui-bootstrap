@@ -1,8 +1,9 @@
 {
   "name": "panaxui-bootstrap",
-  "description": "Panax' custom Bootstrap CSS build",
+  "description": "Panax custom Bootstrap CSS build",
   "version": "0.0.1",
   "main": [
     "css/bootstrap.css"
-  ]
+  ],
+  "author": "Benjamin Orozco <benoror@gmail>"
 }
